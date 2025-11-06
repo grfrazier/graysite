@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://grayson-graysoff.github.io/</loc>
+    <loc>http://localhost:1313/graysite/</loc>
     <lastmod>2025-08-19T22:48:58-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://grayson-graysoff.github.io/research/</loc>
+    <loc>http://localhost:1313/graysite/research/</loc>
     <lastmod>2025-08-19T22:48:58-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://grayson-graysoff.github.io/teaching/</loc>
+    <loc>http://localhost:1313/graysite/teaching/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://grayson-graysoff.github.io/about/</loc>
+    <loc>http://localhost:1313/graysite/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://grayson-graysoff.github.io/music/</loc>
+    <loc>http://localhost:1313/graysite/music/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
