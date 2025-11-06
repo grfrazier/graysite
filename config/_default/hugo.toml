@@ -8,6 +8,14 @@ defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
+
+# for deploying to github
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+
+
 enableRobotsTXT = true
 summaryLength = 0
 
