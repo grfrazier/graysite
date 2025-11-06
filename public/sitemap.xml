@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://grfrazier.github.io/</loc>
+    <loc>https://grfrazier.github.io/graysite/</loc>
     <lastmod>2025-08-19T22:48:58-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://grfrazier.github.io/research/</loc>
+    <loc>https://grfrazier.github.io/graysite/research/</loc>
     <lastmod>2025-08-19T22:48:58-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://grfrazier.github.io/teaching/</loc>
+    <loc>https://grfrazier.github.io/graysite/teaching/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://grfrazier.github.io/about/</loc>
+    <loc>https://grfrazier.github.io/graysite/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://grfrazier.github.io/music/</loc>
+    <loc>https://grfrazier.github.io/graysite/music/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

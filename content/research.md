@@ -60,8 +60,8 @@ or
 
 
 
-<figure style="width: 70%;">
   <img src="/images/research/effective_tunneling.sd.png" style="width: 100%;" >
+<figure style="width: 70%;">
   <figcaption>
   <b>Figure:</b> Effective tunneling of itinerant electrons in presence of a frustrated local exchange field.
   Adapted from <a href="https://doi.org/10.48550/arXiv.2506.15661" target ="_blank" rel ="noopener">Frazier <i>et al.</i> (2025)</a>
