@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>graysite</title>
-    <link>http://localhost:1313/graysite/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on graysite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>gfrazie2@jhu.edu (Grayson R. Frazier)</managingEditor>
     <webMaster>gfrazie2@jhu.edu (Grayson R. Frazier)</webMaster>
     <copyright>&amp;copy; 2025 G. R. Frazier.  All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 19 Aug 2025 22:48:58 -0400</lastBuildDate><atom:link href="http://localhost:1313/graysite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Aug 2025 22:48:58 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Research Overview</title>
-      <link>http://localhost:1313/graysite/research/</link>
+      <link>http://localhost:1313/research/</link>
       <pubDate>Tue, 19 Aug 2025 22:48:58 -0400</pubDate>
       <author>gfrazie2@jhu.edu (Grayson R. Frazier)</author>
-      <guid>http://localhost:1313/graysite/research/</guid>
+      <guid>http://localhost:1313/research/</guid>
       <description>&lt;!--&lt;div style=&#34;display: flex; align-items: center; gap: 20px;&#34;&gt;--&gt;
 &lt;!--&lt;div style=&#34;flex: 3;&#34;&gt;--&gt;
 &lt;!--&lt;b&gt;Research Interests:&lt;/b&gt;--&gt;
@@ -32,7 +32,7 @@
 &lt;!--Below is a list of selected [publications](#publications) and [presentations](#presentations)--&gt;
 &lt;!--&lt;/div&gt;--&gt;
 &lt;!--&lt;div style=&#34;flex: 3;&#34;&gt;--&gt;
-&lt;!--&lt;img src=&#34;http://localhost:1313/graysite/images/research/effective_tunneling.sd.png&#34; alt=&#34;figure&#34; style=&#34;max-width:100%; height:auto;&#34;&gt;--&gt;
+&lt;!--&lt;img src=&#34;http://localhost:1313/images/research/effective_tunneling.sd.png&#34; alt=&#34;figure&#34; style=&#34;max-width:100%; height:auto;&#34;&gt;--&gt;
 &lt;!--    &lt;b&gt;Figure:&lt;/b&gt; Effective tunneling of itinerant electrons in presence of a frustrated local exchange field.--&gt;
 &lt;!--    Adapted from &lt;a href=&#34;https://doi.org/10.48550/arXiv.2506.15661&#34; target =&#34;_blank&#34; rel =&#34;noopener&#34;&gt;Frazier &lt;i&gt;et al.&lt;i&gt; (2025)&lt;/a&gt;.--&gt;
 &lt;!--&lt;/div&gt;--&gt;
@@ -70,10 +70,10 @@ or
     
     <item>
       <title></title>
-      <link>http://localhost:1313/graysite/teaching/</link>
+      <link>http://localhost:1313/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>gfrazie2@jhu.edu (Grayson R. Frazier)</author>
-      <guid>http://localhost:1313/graysite/teaching/</guid>
+      <guid>http://localhost:1313/teaching/</guid>
       <description>&lt;p&gt;Below is a collection of selected notes, taken from research and teaching.&lt;/p&gt;
 
   
@@ -108,28 +108,28 @@ or
     
     <item>
       <title>Grayson R. Frazier</title>
-      <link>http://localhost:1313/graysite/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>gfrazie2@jhu.edu (Grayson R. Frazier)</author>
-      <guid>http://localhost:1313/graysite/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;!--# About Me--&gt;
 &lt;p&gt;I am currently completing my Ph.D. at Johns Hopkins University under the supervision of Prof. Yi Li, where my research explores how topological electronic states and frustrated magnetism can give rise to novel forms of unconventional superconductivity.
 &lt;a
   href=&#34;#curriculum_vitae&#34;&gt;Below is my CV&lt;/a&gt;, and you can find more information about my research &lt;a
-  href=&#34;http://localhost:1313/graysite/research&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+  href=&#34;http://localhost:1313/research&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Outside my work, you can find me playing saxophone semiprofessionally, and
 I also enjoy composing and also transcribing jazz music.
 I have handpicked a &lt;a
-  href=&#34;http://localhost:1313/graysite/music/&#34;&gt;few transcriptions&lt;/a&gt; from some of my favorite solos.&lt;/p&gt;</description>
+  href=&#34;http://localhost:1313/music/&#34;&gt;few transcriptions&lt;/a&gt; from some of my favorite solos.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://localhost:1313/graysite/music/</link>
+      <link>http://localhost:1313/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>gfrazie2@jhu.edu (Grayson R. Frazier)</author>
-      <guid>http://localhost:1313/graysite/music/</guid>
+      <guid>http://localhost:1313/music/</guid>
       <description>&lt;p&gt;Apart from physics, I also enjoy playing and composing music semiprofessionally.
 My primary instrument is saxophone, and I play and compose jazz music.&lt;/p&gt;
 &lt;p&gt;Outside playing the occasional gigs, I also enjoy trancribing solos in my freetime.
@@ -163,10 +163,10 @@ Please contact me if you would prefer a transposed version.&lt;/p&gt;
   &gt;&lt;em&gt;Follow the Red Line&lt;/em&gt; (2010)&lt;/a&gt; &lt;br&gt;
 (Pt. II to be typed!) &lt;br&gt;
 &lt;a
-  href=&#34;http://localhost:1313/graysite/transcriptions/chris_potter/train_lead_sheet_Bb.pdf&#34;&gt;Lead Sheet (Bb) &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32V274.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7V32zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V416c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352H64zM432 456c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/a&gt;
+  href=&#34;http://localhost:1313/transcriptions/chris_potter/train_lead_sheet_Bb.pdf&#34;&gt;Lead Sheet (Bb) &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32V274.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7V32zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V416c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352H64zM432 456c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/a&gt;
 ||
 &lt;a
-  href=&#34;http://localhost:1313/graysite/transcriptions/chris_potter/chris_potter.train.solo_Bb.pdf&#34;&gt;Solo Transcription (Bb) &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32V274.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7V32zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V416c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352H64zM432 456c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
+  href=&#34;http://localhost:1313/transcriptions/chris_potter/chris_potter.train.solo_Bb.pdf&#34;&gt;Solo Transcription (Bb) &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32V274.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7V32zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V416c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352H64zM432 456c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
