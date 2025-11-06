@@ -76,7 +76,7 @@ or
 {{< katex >}}
 
 <b>Frustrated Magnetism and Unvoncentional Superconductivity:</b> [Pub. 4 and 5]
-- Employed a combination of symmetry analysis and *T*-matrix formalism to demonstrate that coupling itinerant electrons to a noncollinear classical exchange field can induce anisotropic Josephson couplings between superconducting *d*-vectors, analogous to Dzyaloshinskii-Moriya's anisotropic superexchange in magnetism.
+- Employed a combination of symmetry analysis and *T*-matrix formalism to demonstrate that coupling itinerant electrons to a noncollinear classical exchange field can induce anisotropic Josephson couplings between superconducting <i>d</i>-vectors, analogous to Dzyaloshinskii-Moriya's anisotropic superexchange in magnetism.
 - Demonstrated that noncollinear spin textures can generate spin triplet pairing correlations, produce a Josephson diode effect, and can favor a spatially varying superconducting order, which can lead to anomalous vortices for nonunitary pairing order.
 
 
@@ -101,7 +101,7 @@ or
     <!-- -->
     <!-- -->
     <li>
-    <b>"Anisotropic Josephson Coupling of *d*-vectors Arising from Interplay with Frustrated Spin Textures"</b><br>
+    <b>"Anisotropic Josephson Coupling of <i>d</i>-vectors Arising from Interplay with Frustrated Spin Textures"</b><br>
     <b>G. R. Frazier</b> and Y. Li<br>
     <a href="https://doi.org/10.48550/arXiv.2506.15661">arXiv.2506.15661 (2025) (2025)</a>, Under review
     </li>
