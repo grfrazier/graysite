@@ -66,7 +66,7 @@ Mentor: Di Xiao
     <li>
     <b>"Anisotropic Josephson Coupling of <i>d</i>-vectors Arising from Interplay with Frustrated Spin Textures"</b><br>
     <b>G. R. Frazier</b> and Y. Li<br>
-    <a href="https://doi.org/10.48550/arXiv.2506.15661">arXiv.2506.15661 (2025) (2025)</a>, Under review
+    <a href="https://doi.org/10.48550/arXiv.2506.15661">arXiv.2506.15661 (2025)</a>, Under review
     </li>
     <!-- -->
     <!-- -->
