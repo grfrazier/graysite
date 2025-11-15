@@ -59,6 +59,12 @@ From [Getz/Gilberto (1964)](https://www.youtube.com/watch?v=POXvY53pJcQ)
 <br>
 [Solo Transcription (Bb) {{<icon "download" >}}](/transcriptions/stan_getz/stan_getz.so_danco_samba.solo_Bb.pdf) 
 
+### Sonny Stitt: Solo from "Just Friends"
+From [Saxophone Supremacy (1959)](https://www.youtube.com/watch?v=2lyzmN3xHhc)
+<br>
+[Solo Transcription (Eb) {{<icon "download" >}}](/transcriptions/sonny_stitt/Sonny_Stitt.Just_Friends.Eb.pdf) 
+
+
 ---
 **More to be typed!** <br>
 
